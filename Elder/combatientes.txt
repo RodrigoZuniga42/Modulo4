@@ -1,0 +1,3 @@
+Monstruo,Dragon,50,20
+Personaje,Aragon14,0,10,15,10
+
